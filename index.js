@@ -113,13 +113,13 @@ let parent =
         let childTemplate = `${el2}`;
 
 
-//});
+});
 
 
 
 
 
-    //}
+    // }
 
 alert(parentTemplate);
 alert(childTemplate);
